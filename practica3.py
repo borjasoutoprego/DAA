@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 29 15:47:54 2021
-
-@author: Borja Souto Prego, Carmen Lozano López, Nina López Laudenbach
-"""
 
 import numpy as np
 from prettytable import PrettyTable 
