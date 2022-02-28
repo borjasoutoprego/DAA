@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 22 11:42:39 2021
 
-@author: Nina López, Carmen Lozano, Borja Souto
-"""
 import numpy as np
 from prettytable import PrettyTable 
 import time
