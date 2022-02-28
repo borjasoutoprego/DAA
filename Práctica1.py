@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Sep 17 15:57:18 2021
 
-@author: Borja Souto (borja.souto), Nina López (nina.laudenbach), Carmen Lozano (c.lozano)
-"""
 #importamos librerías necesarias
 import math
 import time
