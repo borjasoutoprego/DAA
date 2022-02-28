@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Oct  8 15:53:50 2021
 
-@author: Carmen Lozano López, Borja Souto Prego, Nina López Laudenbach
-"""
 from numpy.random import seed
 from numpy.random import randint
 import numpy
