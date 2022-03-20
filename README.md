@@ -1,2 +1,2 @@
 # DAA
-Prácticas de `Diseño y Análisis de Algoritmos`
+Prácticas realizadas en la asignatura `Diseño y Análisis de Algoritmos`
