@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
+"""
 
+@author: Borja Souto Prego, Carmen Lozano López, Nina López Laudenbach
+"""
 from numpy.random import seed
 from numpy.random import randint
 import numpy
