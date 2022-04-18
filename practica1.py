@@ -1,3 +1,7 @@
+"""
+
+@author: Borja Souto Prego, Carmen Lozano López, Nina López Laudenbach
+"""
 # -*- coding: utf-8 -*-
 
 #importamos librerías necesarias
