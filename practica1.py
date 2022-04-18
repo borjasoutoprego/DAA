@@ -1,9 +1,8 @@
+# -*- coding: utf-8 -*-
 """
 
 @author: Borja Souto Prego, Carmen Lozano López, Nina López Laudenbach
 """
-# -*- coding: utf-8 -*-
-
 #importamos librerías necesarias
 import math
 import time
