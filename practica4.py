@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
+"""
 
+@author: Borja Souto Prego, Carmen Lozano López, Nina López Laudenbach
+"""
 import numpy as np
 from prettytable import PrettyTable 
 import time
